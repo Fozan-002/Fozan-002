@@ -1,100 +1,90 @@
-# 👋 Hi, I'm Muhammad Fozan
+<!-- Profile README for Muhammad Fozan -->
 
-💻 **Full Stack Developer | Django, DRF, React, FastAPI | Cloud (AWS, GCP)**  
-📍 Jhelum, Pakistan  
-📫 Reach me at **m.fozan00@gmail.com**
+<h1 align="center">👋 Hi, I'm Muhammad Fozan</h1>
+
+<p align="center">
+  💻 <b>Full Stack Developer</b> | Django • React • FastAPI • Cloud  
+  <br/>
+  🚀 Passionate about building scalable, performant, and user-friendly web apps
+</p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-I’m a **creative software developer** passionate about crafting smooth, scalable, and user-friendly web applications.  
-I love tackling complex problems, building efficient systems, and learning new technologies that make a real impact.
-
-- 🧠 Strong in both **frontend** and **backend**
-- 🔧 Enjoy integrating third-party APIs and optimizing performance
-- 🧩 Focused on **clean code**, design patterns, and **SOLID principles**
-- 🌱 Constantly exploring **modern frameworks** and **cloud solutions**
+- 🧩 I love turning complex ideas into elegant, maintainable code  
+- 🧠 Strong in both **frontend** and **backend** development  
+- ⚡ Experienced with **API integrations**, **microservices**, and **cloud architecture**  
+- 🌱 Constantly exploring new technologies to build smarter, cleaner systems  
+- 🎯 Focused on **scalability**, **design patterns**, and **SOLID principles**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`Python` · `Django` · `DRF` · `Flask` · `FastAPI` · `React` · `Redux` · `Node.js` · `Next.js` · `TypeScript`
-
-**Databases**  
-`PostgreSQL` · `MySQL` · `MongoDB`
-
-**Cloud & DevOps**  
-`AWS (EC2, S3)` · `Google Cloud Platform` · `Docker` · `CI/CD` · `GitHub Actions`
-
-**Other Tools**  
-`Celery` · `BeautifulSoup` · `Selenium` · `TailwindCSS` · `Bootstrap` · `D3.js` · `Three.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,redux,typescript,tailwind,postgresql,mongodb,aws,gcp,docker,git,github,html,css,js,nodejs" />
+</p>
 
 ---
 
-### 💼 Experience
-
-**Software Engineer — Telerelation Technologies**  
-*July 2023 – Present | Lahore, Pakistan*  
-- Improved trading app performance by **40%** through optimized queries.  
-- Integrated complex APIs & payment gateways with minimal documentation.  
-- Enforced coding standards and PR best practices.  
-- Collaborated with design/product teams to enhance UX and reduce support tickets by 35%.
-
-**Lab Assistant — FAST (NUCES)**  
-*Aug 2022 – Jan 2023 | Islamabad, Pakistan*  
-- Supported students in programming labs and simplified complex concepts.
-
----
-
-### 📚 Education
-
-**FAST (NUCES)**  
-*BS Computer Science (CGPA: 3.56 / 4.0)*  
-🏅 Dean’s List for 5 consecutive semesters
-
----
-
-### 🔥 Featured Projects
+### 🚀 Featured Projects
 
 #### 🏏 [Poncho](#)
-A sports portal for the Pakistani community to discover and book courts.  
+A modern sports portal for the Pakistani community to discover and book courts, manage tournaments, and track rankings.  
 **Tech:** Django, DRF, React, Redux, PostgreSQL, Twilio, Docker, GCP
 
 #### 🧾 [Telerelation ERP](#)
-Internal ERP system for HR, operations, and payroll automation.  
+A company-wide ERP platform for HR, payroll, and operations automation.  
 **Tech:** Django, DRF, React, TypeScript, PostgreSQL, GCP
 
 #### 🏗️ [Tameer ERP](#)
-Enterprise system for US-based construction firm.  
+Enterprise solution for US-based construction workflows — projects, vendors, invoicing, and HR.  
 **Tech:** Django, TailwindCSS, PostgreSQL, AWS
 
 #### 🧍‍♂️ [Active CRM](#)
-Fitness and gym management platform connecting trainers and clients.  
+A gym and fitness management platform connecting trainers and clients.  
 **Tech:** Django, Bootstrap5, Stripe, GCP
 
 #### 💹 [TradeMaster](#)
-Trading solution integrated with IBKR to simplify trading setup.  
+Simplified trading platform integrating with IBKR for fast, confident execution.  
 **Tech:** Flask, FastAPI, React, Redis, Stripe, Docker, AWS
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fozan-002&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozan-002&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozan-002&layout=compact&theme=radical" />
+</p>
+
+---
+
 ### 🏆 Certifications
-- The Complete 2023 Web Development Bootcamp  
-- React (HackerRank)  
-- SQL (HackerRank)
+
+- 🧠 The Complete 2023 Web Development Bootcamp  
+- ⚛️ React (HackerRank)  
+- 🧮 SQL (HackerRank)
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fozan-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-fozan-970175194/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Fozan--002-black?logo=github)](https://github.com/Fozan-002)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel)](http://st3rchkq4mtqcogv.vercel.app/)
+<p align="center">
+  <a href="mailto:m.fozan00@gmail.com"><img src="https://img.shields.io/badge/Email-m.fozan00%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-fozan-970175194/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fozan-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Fozan-002"><img src="https://img.shields.io/badge/GitHub-Fozan--002-black?logo=github" /></a>
+  <a href="http://st3rchkq4mtqcogv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel" /></a>
+</p>
 
 ---
 
-> “Code is like humor — when you have to explain it, it’s bad.”  
-> — *Cory House*
+<p align="center">
+  <i>“Code is like humor — when you have to explain it, it’s bad.”</i><br/>
+  — <b>Cory House</b>
+</p>
