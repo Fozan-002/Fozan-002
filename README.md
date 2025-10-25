@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Fozan</h1>
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | Django • React • FastAPI • Cloud  
+  💻 <b>Software Engineer</b> | Django • React • FastAPI • Cloud  
   <br/>
   🚀 Passionate about building scalable, performant, and user-friendly web apps
 </p>
@@ -50,18 +50,6 @@ A gym and fitness management platform connecting trainers and clients.
 Simplified trading platform integrating with IBKR for fast, confident execution.  
 **Tech:** Flask, FastAPI, React, Redis, Stripe, Docker, AWS
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fozan-002&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozan-002&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozan-002&layout=compact&theme=radical" />
-</p>
 
 ---
 
