@@ -67,7 +67,7 @@ Simplified trading platform integrating with IBKR for fast, confident execution.
   <a href="mailto:m.fozan00@gmail.com"><img src="https://img.shields.io/badge/Email-m.fozan00%40gmail.com-red?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-fozan-970175194/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fozan-blue?logo=linkedin" /></a>
   <a href="https://github.com/Fozan-002"><img src="https://img.shields.io/badge/GitHub-Fozan--002-black?logo=github" /></a>
-  <a href="http://st3rchkq4mtqcogv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel" /></a>
+  <a href="https://mfozan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel" /></a>
 </p>
 
 ---
